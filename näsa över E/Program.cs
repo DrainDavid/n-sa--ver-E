@@ -6,6 +6,13 @@
 // }
 
 
+//Console.WriteLine("Vad heter du");
 
 
-Console.ReadLine();
+
+//if(Console.ReadLine()=="Kalleanka")
+//{
+//Console.WriteLine("Welcome");
+//}
+
+//Console.ReadLine();
