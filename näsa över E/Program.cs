@@ -5,14 +5,15 @@
 // Console.WriteLine("Hello World");
 // }
 
+using System.Reflection.Metadata;
 
-//Console.WriteLine("Vad heter du");
+string username = "";
+string password = "";
 
 
+while(!(username == "Kalleanka" && password == "12345"));
+{
+ 
+    username = Console.ReadLine
 
-//if(Console.ReadLine()=="Kalleanka")
-//{
-//Console.WriteLine("Welcome");
-//}
-
-//Console.ReadLine();
+}
